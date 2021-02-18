@@ -1,0 +1,5 @@
+## Interface: 40200
+## Title: Boss Frames
+## Notes: Hides boss frames.
+## Author: Ólverius
+BossFrames.lua
